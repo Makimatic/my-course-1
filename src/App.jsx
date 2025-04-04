@@ -1,7 +1,9 @@
 import './App.css'
 
+let name="Marko"
+
 function App() {
-  let name="Marko"
+  
 
   return (
     <>
