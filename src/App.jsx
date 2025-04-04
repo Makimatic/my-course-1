@@ -7,8 +7,10 @@ function App() {
 
   return (
     <>
+    <p>
       My name is {name}
-    </>
+      </p>
+      </>
   )
 }
 
